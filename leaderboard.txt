@@ -1,0 +1,5 @@
+Maria,4.00
+Olga,3.00
+Mario,1.00
+jfbjenj,0.50
+Daniel,0.00

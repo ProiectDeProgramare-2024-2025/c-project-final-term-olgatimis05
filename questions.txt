@@ -1,0 +1,90 @@
+What is the capital of France?
+Berlin
+Madrid
+Paris
+Rome
+3
+What is the largest planet in our solar system?
+Earth
+Jupiter
+Mars
+Saturn
+2
+Who painted the Mona Lisa?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci
+Michelangelo
+3
+What element does 'O' represent on the periodic table?
+Oxygen
+Osmium
+Oganesson
+Ozone
+1
+What is the capital of Canada?
+Toronto
+Ottawa
+Vancouver
+Montreal
+2
+What is the chemical symbol for gold?
+Ag
+Au
+Pb
+Fe
+2
+Who wrote "Romeo and Juliet"?
+William Shakespeare
+Charles Dickens
+Jane Austen
+Mark Twain
+1
+Which planet is known as the Red Planet?
+Venus
+Mars
+Jupiter
+Saturn
+2
+What is the longest river in the world?
+Nile
+Amazon
+Yangtze
+Mississippi
+1
+How many continents are there on Earth?
+5
+7
+6
+8
+2
+What is the currency of Japan?
+Won
+Yuan
+Yen
+Ringgit
+3
+What gas do plants absorb from the atmosphere?
+Oxygen
+Carbon dioxide
+Nitrogen
+Hydrogen
+2
+What is the main ingredient in guacamole?
+Avocado
+Tomato
+Cucumber
+Pepper
+1
+How many bones are in the adult human body?
+200
+206
+215
+190
+2
+What is the capital of Australia?
+Sydney
+Melbourne
+Canberra
+Brisbane
+3
